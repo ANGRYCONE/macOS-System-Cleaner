@@ -2,7 +2,7 @@
 
 ![macOS](https://img.shields.io/badge/platform-macOS-lightgrey)
 ![Version](https://img.shields.io/badge/version-v2.4.4-blue)
-![Downloads](https://img.shields.io/github/downloads/ANGRYCONE/Simple-macOS-System-Data-Cleaner/total)
+![Downloads](https://img.shields.io/github/downloads/ANGRYCONE/macOS-System-Cleaner/total)
 
 ## What This Script Does
 
