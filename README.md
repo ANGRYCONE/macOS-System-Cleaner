@@ -25,7 +25,7 @@ This script performs a full system cleanup on macOS. Here's what it takes care o
 - Deletes geod caches
 - Deletes Messages caches
 
-**Warning 1:** This script requires the terminal to have full disk access.
+**Warning:** This script requires the terminal to have full disk access.
 
 # Install Instructions (First Method)
 
