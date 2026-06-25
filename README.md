@@ -1,7 +1,7 @@
 # macOS System Cleaner
 
 ![macOS](https://img.shields.io/badge/platform-macOS-lightgrey)
-![Version](https://img.shields.io/badge/version-v2.4.4-blue)
+![Version](https://img.shields.io/badge/version-v2.4.5-blue)
 ![Downloads](https://img.shields.io/github/downloads/ANGRYCONE/macOS-System-Cleaner/total)
 
 ## What This Script Does
@@ -31,12 +31,12 @@ This script performs a full system cleanup on macOS. Here's what it takes care o
 
 Install via Homebrew:
 ```bash
-brew install ANGRYCONE/tap/mclean
+brew install ANGRYCONE/mclean/mclean
 ```
 
 Or:
 ```bash
-brew tap ANGRYCONE/tap
+brew tap ANGRYCONE/mclean
 brew install mclean
 ```
 
