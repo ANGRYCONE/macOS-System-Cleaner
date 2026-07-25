@@ -56,7 +56,7 @@ Open Terminal and run the following commands:
 
 commands:
 
-`cd Downloads`
+`cd Downloads` (or wherever you downloaded it)
 
 `chmod +x macos_cleaner.sh`
 
