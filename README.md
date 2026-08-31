@@ -30,13 +30,10 @@ This script performs a full system cleanup on macOS. Here's what it takes care o
 # Install Instructions (First Method)
 
 Install via Homebrew:
-```bash
-brew install ANGRYCONE/mclean/mclean
-```
 
-Or:
 ```bash
 brew tap ANGRYCONE/mclean
+brew trust ANGRYCONE/mclean
 brew install mclean
 ```
 
