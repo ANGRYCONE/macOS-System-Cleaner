@@ -27,6 +27,8 @@ This script performs a full system cleanup on macOS. Here's what it takes care o
 
 **Warning:** This script requires the terminal to have full disk access.
 
+How to enable full disk access: System Settings → Privacy & Security → Full Disk Access → Select the termainl you're using
+
 # Install Instructions (First Method)
 
 Install via Homebrew:
