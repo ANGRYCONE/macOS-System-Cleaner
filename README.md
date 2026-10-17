@@ -24,6 +24,7 @@ This script performs a full system cleanup on macOS. Here's what it takes care o
 - Deletes wallpaper agent caches
 - Deletes geod caches
 - Deletes Messages caches
+- And more...
 
 **Warning:** This script requires the terminal to have full disk access.
 
